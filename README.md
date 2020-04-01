@@ -61,16 +61,16 @@ Same as `npm run build-freemarker` but runs develop server with livereload
 ## Working with templates
 Html email renders are different. You must use some special non-standard process 
 
-####Using table layout
+#### Using table layout
 - use table layout due to different html email renders
 
-####Using css inlining
+#### Using css inlining
 - your styles will be inlined. See [juice](https://www.npmjs.com/package/juice) 
 
-####Using outlook specific styles
+#### Using outlook specific styles
 >  p.MsoNormal { margin: 0px; }
 
-####Using outlook if
+#### Using outlook if
 `<!--[if gte mso 9]>`
 
 _this content will be shown in outlook only in outlook_
@@ -86,7 +86,7 @@ _this content will be shown in outlook only in outlook_
 `<outlook-only-end/>`
 
 
-####Using outlook hide
+#### Using outlook hide
 `<![if !mso]>`
 
 _this content will be hide in outlook_
