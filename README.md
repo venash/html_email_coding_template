@@ -13,7 +13,7 @@ This html email coding template is used to create html email templates using som
 ### Install
 * Run node command `npm install`
 
-##Structure and Technology
+## Structure and Technology
 ### Structure
 * __src/parts__ - html parts e.g. header.html, footer.html<br>
 * __src/scss__ - scss parts <br>
