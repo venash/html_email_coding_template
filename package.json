@@ -1,0 +1,37 @@
+{
+  "name": "html_email_coding_template",
+  "version": "1.0.0",
+  "description": "Html email templates using inline CSS and freemarker template language",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp devel-html",
+    "start-freemarker": "gulp devel-freemarker",
+    "build": "gulp build",
+    "build-freemarker": "gulp build-freemarker",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "email",
+    "inline",
+    "freemarker"
+  ],
+  "author": "Vaclav Rasendorfer, rasendorfer@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "event-stream": "^4.0.1",
+    "freemarker": "^2.1.0",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-color": "0.0.2",
+    "gulp-file-include": "^2.1.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "juice": "^6.0.0",
+    "node-sass": "^4.13.1",
+    "pumpify": "^2.0.1",
+    "through2": "^3.0.1"
+  }
+}

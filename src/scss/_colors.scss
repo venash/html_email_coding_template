@@ -1,0 +1,26 @@
+$color-black: #000000;
+$color-white: #ffffff;
+$color-green: #006400;
+$color-grey-dark: #9F9F9F;
+$color-grey-light: #dddddd;
+
+.cl-green {
+    color: $color-green;
+}
+
+.cl-black {
+    color: $color-black;
+}
+
+.cl-white {
+    color: $color-white;
+}
+
+.cl-grey {
+    color: $color-grey-dark;
+}
+
+.bg-white {
+    background-color: $color-white;
+}
+

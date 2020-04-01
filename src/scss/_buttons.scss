@@ -1,0 +1,42 @@
+$btn-heigh: 28px;
+
+.outlook-btn-roundrect {
+    height:$btn-heigh;
+    v-text-anchor:middle;
+    width:100px;
+}
+
+.outlook-btn-center {
+    font-family: $font-family;
+    font-size:12px;
+}
+
+.outlook-btn-center-bold {
+    font-weight:bold;
+}
+
+.btn-wrapper {
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    display: block;
+    height: $btn-heigh;
+    width: 100px;
+}
+
+.btn-link {
+    font-size:12px;
+    text-decoration: none;
+    line-height:$btn-heigh;
+    width:100%;
+    display:inline-block;
+}
+
+.btn-primary {
+    background-color: $color-green;
+    border:1px solid $color-green;
+}
+.btn-secondary {
+    background-color: $color-white;
+    border:1px solid $color-green;
+}

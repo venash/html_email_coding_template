@@ -1,0 +1,11 @@
+{
+  "templateEngine": "Apache FreeMarker",
+  "url": "https://freemarker.apache.org/",
+  "highlights": [
+    "Powerful template language: Conditional blocks, iterations, assignments, string and arithmetic operations and formatting, macros and functions, including other templates, escaping by default (optional), and many more",
+    "Multipurpose and lightweight: Zero dependencies, any output format, can load templates from any place (pluggable), many configuration options",
+    "Internationalization/localization-aware: Locale sensitive number and date/time formatting, localized template variations.",
+    "XML processing capabilities: Drop XML DOM-s into the data-model and traverse them, or even process them declaratively",
+    "Versatile data-model: Java objects are exposed to the template as a tree of variables through pluggable adapters, which decides how the template sees them."
+  ]
+}

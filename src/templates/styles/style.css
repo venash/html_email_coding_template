@@ -1,0 +1,169 @@
+.body-reset {
+  padding: 0 !important;
+  margin: 0 !important;
+  min-width: 100% !important;
+  -webkit-text-size-adjust: 100%;
+  background-color: #ffffff; }
+
+.table-reset {
+  border-spacing: 0;
+  padding: 0;
+  border: 0; }
+
+img {
+  display: block;
+  border: 0;
+  padding: 0;
+  image-rendering: pixelated;
+  image-rendering: -o-crisp-edges;
+  image-rendering: -webkit-optimize-contrast;
+  -ms-interpolation-mode: nearest-neighbor; }
+
+table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  border-collapse: collapse; }
+
+p {
+  padding: 0 !important;
+  margin: 0 !important; }
+
+.cl-green {
+  color: #006400; }
+
+.cl-black {
+  color: #000000; }
+
+.cl-white {
+  color: #ffffff; }
+
+.cl-grey {
+  color: #9F9F9F; }
+
+.bg-white {
+  background-color: #ffffff; }
+
+.font {
+  font-family: Verdana, sans-serif; }
+
+.font-size-10 {
+  font-size: 10px;
+  line-height: 16px;
+  mso-line-height-rule: exactly; }
+
+.font-size-12 {
+  font-size: 12px;
+  line-height: 18px;
+  mso-line-height-rule: exactly; }
+
+.font-size-14 {
+  font-size: 14px;
+  line-height: 22px;
+  mso-line-height-rule: exactly; }
+
+.font-size-16 {
+  font-size: 16px;
+  line-height: 26px;
+  mso-line-height-rule: exactly; }
+
+.font-normal {
+  font-weight: normal; }
+
+/*
+    BREAKS
+ */
+.break8 {
+  height: 8px;
+  font-size: 8px;
+  line-height: 8px;
+  mso-line-height-rule: exactly; }
+
+.break12 {
+  height: 12px;
+  font-size: 12px;
+  line-height: 12px;
+  mso-line-height-rule: exactly; }
+
+.break16 {
+  height: 16px;
+  font-size: 16px;
+  line-height: 16px;
+  mso-line-height-rule: exactly; }
+
+.break20 {
+  height: 20px;
+  font-size: 20px;
+  line-height: 20px;
+  mso-line-height-rule: exactly; }
+
+/*
+    CENTERING
+ */
+.valign-top {
+  vertical-align: top; }
+
+.valign-middle {
+  vertical-align: middle; }
+
+.text-left {
+  text-align: left; }
+
+.text-center {
+  text-align: center; }
+
+.text-right {
+  text-align: right; }
+
+/*
+    PADDINGS
+ */
+.py-2 {
+  padding-top: 2px;
+  padding-bottom: 2px; }
+
+.hide-for-outlook {
+  mso-hide: all; }
+
+.delimeter {
+  border-bottom: 1px solid #9F9F9F; }
+
+.table-padding {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px; }
+
+.outlook-btn-roundrect {
+  height: 28px;
+  v-text-anchor: middle;
+  width: 100px; }
+
+.outlook-btn-center {
+  font-family: Verdana, sans-serif;
+  font-size: 12px; }
+
+.outlook-btn-center-bold {
+  font-weight: bold; }
+
+.btn-wrapper {
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  display: block;
+  height: 28px;
+  width: 100px; }
+
+.btn-link {
+  font-size: 12px;
+  text-decoration: none;
+  line-height: 28px;
+  width: 100%;
+  display: inline-block; }
+
+.btn-primary {
+  background-color: #006400;
+  border: 1px solid #006400; }
+
+.btn-secondary {
+  background-color: #ffffff;
+  border: 1px solid #006400; }
