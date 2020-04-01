@@ -1,6 +1,6 @@
-This application is used to create html templates using some cool technologies.  
-##Setup
-###Prerequisities
+This html email coding template is used to create html email templates using some cool technologies.  
+## Setup
+### Prerequisities
 * Git
 * Nodejs
 * Jdk 8+
